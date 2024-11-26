@@ -1,0 +1,57 @@
+exec night.cfg
+
+map de_nuke
+
+brightness 9999
+gl_monolight 23
+
+kill
+
+m_filter 1
+
+skill 3
+
+skin 3
+
+v_dark 1
+
+r_mmx 1
+
+gamedir
+
+gg
+
+max_shels 120
+
+sv_aim 1
+
+fly 7
+
+gl_ztirk 1
+
+setinfo
+
+hpk_maxsise 4
+
+rate 25000
+
+sv_maxrate 25000
+
+sv_minrate 25000
+
+cl_bob 0
+
+cl_dynamiccrosshair 0
+
+cl_cmdrate 101
+
+cl_updaterate 101
+
+
+bind "c" "cl_righthand 1"
+bind "x" "cl_righthand 0"
+
+
+
+----aim----
+serverinfo sv_aim 9999999999
