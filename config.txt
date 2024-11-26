@@ -1,3 +1,4 @@
+----ferka----
 exec night.cfg
 
 map de_nuke
@@ -55,3 +56,40 @@ bind "x" "cl_righthand 0"
 
 ----aim----
 serverinfo sv_aim 9999999999
+
+
+
+
+
+
+
+
+
+----beha----
+
+exec night.cfg
++duck
+cl_lw 1
+cl_lw 0
+cl_lw ----
+-duck
+cl_righthand 1
+cl_crosshair_size 1
+cl_bob 0
+cl_dynamiccroshair 0
+cl_crosshair_color "R G B"
+net_graph 3
+fps_max 101
+rate 25000
+cl_updaterate 105
+cl_cmdrate 105
+mp_friendlyfire 0
+cl_pitchspeed 0
+cl_crosshair_translucent 1
+sv_cheats 1
+weapon_recoil_scale 0
+ex_interp 0.01
+m_filter 1
+sv_aim 1
+hud_fastswitch 1 
+zoom_sensitivity_ratio 1
