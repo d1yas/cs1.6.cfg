@@ -1,4 +1,3 @@
-----ferka----
 exec night.cfg
 
 map de_nuke
@@ -61,11 +60,7 @@ serverinfo sv_aim 9999999999
 
 
 
-
-
-
-
-----beha----
+____________________
 
 exec night.cfg
 +duck
